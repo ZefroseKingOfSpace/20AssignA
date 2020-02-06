@@ -2,10 +2,11 @@ Yahtzee Rules
 
 Yahtzee is a dice game thats based on your score. Players roll a set of five dice and then assign the dice to a category based on what values they roll on the dice. 
 
-// Todo: turn description
 
 // Todo: explain assigning score, including that fact that you can't repeat categories, and assigning zero to categories where conditions are not met
 
+Yahtzee turn description: Players take turns rolling the dice, and trying to get certain types of rolls, each with an assigned point value.
+Players are allowed a total of three rolls, with any subset of dice capable of being set aside at each roll.
 
 Scoring:
 
@@ -34,5 +35,5 @@ Large Straight:
 
 Yahtzee:
 
-Chance:
+Chance:The player rolls and its not a spesific roll so the total of all the die faces are added up.
 

@@ -1,5 +1,5 @@
-To make Yahtzee a mobile app first we would need to determine if it would be android or apple, and begin working within those parameters.
-It can be a mulpiplayer{I’M A BUG} game that is played locally on the same device, or across multiple devices (online). 
-The user can also choose to     {I’M ALSO A BUG}  . 
+﻿To make Yahtzee a mobile app first we would need to determine if it would be android or apple, and begin working within those parameters.
+It can be a mulpiplayer game that is played locally on the same device, or across multiple devices (online). 
+The user can also choose to play vs bots. 
 The app should have a point tracking feature, which will show/award rankings of the user, the user’s previous games, as well as stats for multiplayer games. 
 To increase rankings in the scoreboards, the user has to win a set nimber{LAST BUG} of games to rank up. When a user ranks up they are given a new emblem next to their name and a tiny animation will play.  
